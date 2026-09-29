@@ -16,13 +16,13 @@ technical drawing tasks.
 
 ### Figma Design
 
-[Open DrawArch in Figma]([YOUR_FIGMA_LINK](https://www.figma.com/design/VLsxoMZHUv58VCL4NC4XK2/The-DrawArch?node-id=1-2&t=9lksBrAxpwYg60mf-1))
+https://www.figma.com/design/VLsxoMZHUv58VCL4NC4XK2/The-DrawArch?node-id=1-2&t=9lksBrAxpwYg60mf-1
 
 ### Interactive Prototype
 
-[View DrawArch Prototype]([YOUR_FIGMA_PROTOTYPE_LINK](https://www.figma.com/proto/VLsxoMZHUv58VCL4NC4XK2/The-DrawArch?node-id=1-2&t=9lksBrAxpwYg60mf-1))
+https://www.figma.com/design/VLsxoMZHUv58VCL4NC4XK2/The-DrawArch?node-id=1-2&t=9lksBrAxpwYg60mf-1
 
-> The Figma file contains the editable UI design, components, screens,
+> The Figma file contains the UI design, components, screens,
 > interactions, and interactive prototype.
 
 ---
